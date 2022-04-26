@@ -1,4 +1,4 @@
-# arm
+# ARM ASSEMBLY
 
 ARM assembly language implementations of the following problems:
 
